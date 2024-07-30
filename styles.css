@@ -3,6 +3,5 @@ p {
 }
 
 box {
-    background-image: url("assets/ferret_bg.png");
-    background-size: cover;
+    background-color:aquamarine
 }
