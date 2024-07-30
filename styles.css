@@ -4,4 +4,5 @@ p {
 
 body {
     background-image: url("assets/ferret_bg.png");
+    background-size: cover;
 }
