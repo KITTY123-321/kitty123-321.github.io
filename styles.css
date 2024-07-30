@@ -1,3 +1,7 @@
 p {
     font-size: larger;
 }
+
+body {
+    background-image: url("assets/ferret_bg.png");
+}
