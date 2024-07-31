@@ -18,3 +18,10 @@ h2 {
     align-items: center;
 }
 
+.header-container {
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10;
+}
+
